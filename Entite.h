@@ -12,4 +12,5 @@ public:
 	int pv;
 	int attaque;
 
+	void attaquer(Entite& cible);
 };

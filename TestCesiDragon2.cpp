@@ -8,9 +8,9 @@
 using namespace std;
 
 int main()
-{
+{   
     Creature dragon;
-    dragon.init("dragon", 10, 3);
+    dragon.init("dragon", 6, 3);
 
     cout << endl;
 
